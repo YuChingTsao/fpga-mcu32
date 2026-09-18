@@ -1,0 +1,35 @@
+# Quartus generated files/directories
+db/
+incremental_db/
+output_files/
+*.qws
+*.qws.*
+*.bak
+*.rpt
+*.summary
+*.smsg
+*.jdi
+*.sof
+*.pof
+*.cdf
+*.done
+*.pin
+*.sld
+*.qdf
+*.qws
+
+# Questa / ModelSim generated files
+work/
+transcript
+vsim.wlf
+*.wlf
+modelsim.ini
+wlft*
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*~
+*.swp

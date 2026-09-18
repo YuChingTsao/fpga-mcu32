@@ -1,0 +1,11 @@
+*.vhd text eol=lf
+*.vhdl text eol=lf
+*.qsf text eol=lf
+*.qpf text eol=lf
+*.sdc text eol=lf
+*.do text eol=lf
+*.md text eol=lf
+*.png binary
+*.jpg binary
+*.pdf binary
+*.stp binary
