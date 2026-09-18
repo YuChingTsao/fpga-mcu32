@@ -152,10 +152,7 @@ Replace `tb_alu32` with another entity from the `testbench/` directory. Integrat
 ## Tools & Skills Demonstrated
 
 **VHDL · FPGA Design · Intel Quartus Prime · Questa/ModelSim · Digital Logic · Computer Architecture · Memory-Mapped I/O · Interrupts · PWM · Static Timing Analysis · Signal Tap · Oscilloscope Measurement · Hardware Verification**
-## Contributors
 
-- **Kazi Masrur Rahman** — FPGA integration, memory/bus system, GPIO, timer, PWM, hardware validation, timing analysis
-- **Yu Ching Tsao** — CPU architecture, control unit, ALU, instruction implementation, verification
 ## License / Use
 
 This repository is published for portfolio and technical-review purposes. See [`LICENSE`](LICENSE) before reusing project material.
